@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/Galaxy-JewXW/my-github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/Galaxy-JewXW/my-github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![info](https://github-readme-stats.vercel.app/api?username=Galaxy-JewXW&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxy-JewXW&count_private=true&layout=compact)
