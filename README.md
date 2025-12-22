@@ -1,8 +1,8 @@
 ## Hi there，Guten Tag，你好！ 👋
 
-- 🔭 I’m currently working on **simplified C-to-riscv64 compiler implemented by c++**
-- 🌱 I’m currently learning **compile theory, web frontend/backend development**
-- 📫 How to reach me: Zhu149248@buaa.edu.cn
+- 🔭 I’m currently working on **Machine Learning System**
+- 🌱 I’m currently learning **vllm, sglang**
+- 📫 How to reach me: zhu149248@gmail.com
 - 😄 Pronouns: He/him
 
 <!--
